@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: #340666;
+    
+}
+
+.btn{
+    width: 40%;
+    font-size: 3rem;
+    background: transparent;
+    border: none;
+    margin: 30px;
+    margin-top: 60px;
+    color: #dcbdff;
+    font-family: 'Press Start 2P', cursive;
+    display: inline-block;
+    cursor: pointer;
+
+
+}
+
+.winnername{
+    font-family: 'Press Start 2P', cursive;
+    color: #dcbdff;
+}
+
+
+.table{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+.bottom{
+    color: white;
+    margin-top: 7%;
+    text-align: center;
+}
